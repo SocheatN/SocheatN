@@ -2,12 +2,12 @@
 
 ## Hello, it's Socheat 👋
 
-:technologist: Engineer in the field of Data Science and Analytics
-😄 Pronouns: Soch / So
-:chess_pawn: Hobbies: 
-. Sports (Football, Running, Hiking, and others.)
-. Chess
-. Karaoke (even if I'm not a really good singer...) 
+:technologist: # Engineer in the field of Data Science and Analytics</br>
+😄 Pronouns: Soch / So</br>
+:chess_pawn: Hobbies:</br>
+. Sports (Football, Running, Hiking, and others.)</br>
+. Chess</br>
+. Karaoke (even if I'm not a really good singer...)
 
 
 <!--
