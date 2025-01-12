@@ -2,7 +2,7 @@
 
 ## Hello, it's Socheat 👋
 
-:technologist: # Engineer in the field of Data Science and Analytics</br>
+:technologist: **Engineer in the field of Data Science and Analytics**</br>
 😄 Pronouns: Soch / So</br>
 :chess_pawn: Hobbies:</br>
 . Sports (Football, Running, Hiking, and others.)</br>
