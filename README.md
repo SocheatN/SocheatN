@@ -2,13 +2,10 @@
 
 ## Hello, it's Socheat 👋
 
-:technologist: **Engineer in the field of Data Science and Analytics**</br>
-😄 Pronouns: Soch / So</br>
-:chess_pawn: Hobbies:</br>
+:technologist: **Junior Data Analyst / Scientist**</br>
 . Sports (Football, Running, Hiking, and others.)</br>
 . Chess</br>
-. Karaoke (even if I'm not a really good singer...)
-
+. Japanese culture 🇯🇵</br>
 
 <!--
 **SocheatN/SocheatN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
