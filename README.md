@@ -1,11 +1,10 @@
 <!--Level 1: Simple Bio-->
 
-## Hello, it's Socheat 👋
+## Hello World! It's Socheat 👋
 
-:technologist: **Junior Data Analyst / Scientist**</br>
-. Sports (Football, Running, Hiking, and others.)</br>
-. Chess</br>
-. Japanese culture 🇯🇵</br>
+⚽ Sports addict(Football, Running, Hiking, and others.)</br>
+♟️ Chess lover</br>
+🇯🇵 Japanese culture admirer</br>
 
 <!--
 **SocheatN/SocheatN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
