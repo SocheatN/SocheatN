@@ -2,7 +2,7 @@
 
 ## Hello World! It's Socheat 👋
 
-⚽ Sports addict(Football, Running, Hiking, and others.)</br>
+⚽ Sports addict (Football, Running, Hiking, and others.)</br>
 ♟️ Chess lover</br>
 🎌Japanese culture admirer</br>
 
