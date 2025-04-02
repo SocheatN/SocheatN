@@ -4,7 +4,7 @@
 
 ⚽ Sports addict(Football, Running, Hiking, and others.)</br>
 ♟️ Chess lover</br>
-🇯🇵 Japanese culture admirer</br>
+🎌Japanese culture admirer</br>
 
 ## Tools
 
