@@ -29,7 +29,7 @@
 </div>
 
 ###
-### 👨‍💻: Recent Repositories
+### 👨‍💻 Recent Repositories
 - https://github.com/SocheatN/spotify-popularity: Visualizing the music trends per country over the years in Spotify using Tableau
 - https://github.com/SocheatN/fraud-detection: Detecting fraud transactions from banking services using a Machine Learning algorithm
 - https://github.com/SocheatN/amazon-web-scraping: Extracting product information in Amazon website
